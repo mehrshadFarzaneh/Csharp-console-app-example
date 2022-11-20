@@ -22,6 +22,7 @@
       Console.WriteLine("6 ====> calculate phone charges");
       Console.WriteLine("7 ====> calculate phone charges");
       Console.WriteLine("8 ====> how long will it take to see Shayan?");
+      Console.WriteLine("or press any other key to exit...");
       switch (Console.ReadKey(true).KeyChar)
       {
         case '1':
@@ -57,9 +58,9 @@
             CalculationOfSeeingShayan();
             break;
         default:
+          Console.WriteLine("\n ***** bye  ******** :->");
           break;
       }
-      Console.ReadKey();
     }
 
     /*
@@ -240,7 +241,10 @@
      */
     static void CalculationOfSeeingShayan()
     {
-      Console.WriteLine("I am looking for Shayan with a telescope. After a day, I still did not see Shayan.");
+      int distanceShayan = 300;
+      double lightYearKm = 9460800000000;
+      double hoursToSee = ((distanceShayan * lightYearKm) / (300000 * 3600));
+      Console.WriteLine("It takes " + hoursToSee + " hour to see Shayan");
       ResetConsole();
     }
 
