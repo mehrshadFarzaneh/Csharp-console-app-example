@@ -20,7 +20,7 @@
       Console.WriteLine("4 ====> calculate yarane base of lenght of family :)");
       Console.WriteLine("5 ====> calculate end score of students");
       Console.WriteLine("6 ====> calculate phone charges");
-      Console.WriteLine("7 ====> calculate phone charges");
+      Console.WriteLine("7 ====> calculate maliat of salary");
       Console.WriteLine("8 ====> how long will it take to see Shayan?");
       Console.WriteLine("or press any other key to exit...");
       switch (Console.ReadKey(true).KeyChar)
