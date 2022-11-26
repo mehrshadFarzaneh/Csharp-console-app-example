@@ -1,0 +1,7 @@
+C:\Users\Administrator\RiderProjects\deepTest\ConsoleApplication1\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe
+C:\Users\Administrator\RiderProjects\deepTest\ConsoleApplication1\ConsoleApplication2\bin\Debug\ConsoleApplication2.pdb
+C:\Users\Administrator\RiderProjects\deepTest\ConsoleApplication1\ConsoleApplication2\obj\Debug\ConsoleApplication2.csproj.AssemblyReference.cache
+C:\Users\Administrator\RiderProjects\deepTest\ConsoleApplication1\ConsoleApplication2\obj\Debug\ConsoleApplication2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Administrator\RiderProjects\deepTest\ConsoleApplication1\ConsoleApplication2\obj\Debug\ConsoleApplication2.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\RiderProjects\deepTest\ConsoleApplication1\ConsoleApplication2\obj\Debug\ConsoleApplication2.exe
+C:\Users\Administrator\RiderProjects\deepTest\ConsoleApplication1\ConsoleApplication2\obj\Debug\ConsoleApplication2.pdb
